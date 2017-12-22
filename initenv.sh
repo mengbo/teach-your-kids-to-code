@@ -7,4 +7,5 @@ pyenv uninstall teach-your-kids-to-code
 pyenv virtualenv $PY_VERSION teach-your-kids-to-code
 pyenv local teach-your-kids-to-code
 
-pip3 install pygame
+pip install pygame
+pip install pylint
